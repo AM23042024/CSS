@@ -1,0 +1,32 @@
+.card {
+  width: 300px;
+  padding: 20px;
+  background-color: white;
+  color: black;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5em;
+  color: black;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.card-text {
+  margin: 20px 0;
+  color: black;
+}
+
+.card-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
